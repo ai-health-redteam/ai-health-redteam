@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════════
-   Health AI RedTeam — App Logic (vanilla JS, no frameworks)
+   AI Health RedTeam — App Logic (vanilla JS, no frameworks)
    ═══════════════════════════════════════════════════════════════ */
 
 // ── Constants ────────────────────────────────────────────────

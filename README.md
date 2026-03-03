@@ -1,4 +1,4 @@
-# Health AI RedTeam
+# AI Health RedTeam
 
 **AI Health App Evaluation Framework** — a prompt generator for red-teaming AI health apps with configurable bias probes and clinical vignettes.
 
@@ -21,8 +21,8 @@ Generates structured clinical vignettes with configurable bias probes (race, gen
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/health-ai-redteam/health-ai-redteam.git
-cd health-ai-redteam
+git clone https://github.com/ai-health-redteam/ai-health-redteam.git
+cd ai-health-redteam
 npm install
 ```
 
@@ -81,7 +81,7 @@ Clinical scenarios across 4 acuity levels.
 ## Project Structure
 
 ```
-health-ai-redteam/
+ai-health-redteam/
 ├── server.js          # Express server + Claude API proxy
 ├── package.json
 ├── .env.example       # Environment variable template

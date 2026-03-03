@@ -52,5 +52,5 @@ app.get('*', (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`Health AI RedTeam server running on http://localhost:${PORT}`);
+  console.log(`AI Health RedTeam server running on http://localhost:${PORT}`);
 });
